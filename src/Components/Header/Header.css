@@ -1,3 +1,25 @@
+.active-link {
+    background-color: white;
+    color: white;
+    /* padding: 0px; */
+    border-radius: 10px;
+  }
+  
+  .rightNav ul li {
+    list-style: none;
+    /* margin: 10px 0; */
+  }
+  
+  .rightNav ul li a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    /* padding: 10px; */
+  }
+  
+ 
+  
+
 .top-head{
     height: 4rem;
     background: var(--color-main-light);
